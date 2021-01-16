@@ -4,8 +4,10 @@ const divElist = document.querySelector('#list');
 const valueInpt = [];
 
 btn.addEventListener('click',()=>{
+   valueInpt.push(inputEl.value)
    const el = createitem(inputEl.value);
    divElist.appendChild(el)
+   console.log(valueInpt);
 })
 
 
