@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+
+}
+
+.header{
+    color: aquamarine;
+    text-transform:uppercase;
+    text-shadow: 3px 1px  black;
+}
+
+.mainList{
+    width: 600px;
+    height: 500px;
+    background-color: blueviolet;
+    text-align: center;
+    display: inline-block;
+}
