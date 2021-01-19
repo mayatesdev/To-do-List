@@ -22,3 +22,27 @@ body{
     text-align: center;
     display: inline-block;
 }
+
+.itemList{
+    font-size: 18px;
+    color: antiquewhite;
+    padding: 3px;
+    background-color: burlywood;
+    margin: 3px;
+    border-radius: 30px;
+    width: 50%;
+    display: inline-block;
+}
+
+.itemListRemove{
+    font-size: 18px;
+    color: antiquewhite;
+    padding: 3px;
+    background-color: burlywood;
+    margin: 3px;
+    border-radius: 30px;
+    width: 50%;
+    display: inline-block;
+    text-decoration: line-through;
+
+}
